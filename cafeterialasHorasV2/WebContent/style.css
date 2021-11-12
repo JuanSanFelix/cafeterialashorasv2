@@ -1,0 +1,30 @@
+@charset "UTF-8";
+body {
+	background-color: black;
+}
+h1#identificador {
+	text-align: center;
+	color: white;
+}
+p.pgeneral {
+	color: white;
+}
+p.p1 {
+	text-align: left;
+	color: white;
+}
+p.p2 {
+	text-align: center;
+	color: white;
+}
+p.p3 {
+	text-align: right;
+	color: white;
+}
+img.imagen {
+	width:150px;
+	height:150px;
+}
+a.link {
+	color: white;
+}
